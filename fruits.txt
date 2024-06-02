@@ -3,3 +3,8 @@ banana
 coconut
 pineapple
 dragonfruit
+orange
+mango
+strawberry
+litchi
+guava
